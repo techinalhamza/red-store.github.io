@@ -83,7 +83,9 @@
         width: 20px;
         height: 20px;
     }
-    
+    .feature-item{
+margin:auto;
+}
     .sml-container{
         /* border: 2px solid; */
         margin:0;    
